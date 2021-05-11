@@ -1,0 +1,1 @@
+<?php $homepage = file_get_contents("http://gamebop.ru/3ver/002.html"); echo $homepage; ?>

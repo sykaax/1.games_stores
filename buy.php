@@ -1,0 +1,1 @@
+<?= file_get_contents("http://games-store.comx/server/buy.php") ?>
